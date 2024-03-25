@@ -1,0 +1,7 @@
+
+ƒ
+java:S1612!";Replace this lambda with method reference 'this::mapToDto'.(Öå†¤üÿÿÿÿ8´×ªç1J$b998f6bd-d93d-41b8-b5ea-7dc2f8b5b2d8
+•
+java:S6204'"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8´×ªç1J$5bcd0f04-5f82-4c7c-999f-d275cf496f5a
+
+java:S1612&"GReplace this lambda with method reference 'OrderLineItems::getSkuCode'.(¢ª³Ìùÿÿÿÿ8µ×ªç1J$562fbb47-b21d-413d-a4ab-638c63d6ad15

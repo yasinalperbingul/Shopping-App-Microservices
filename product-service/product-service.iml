@@ -110,4 +110,7 @@
     <orderEntry type="library" scope="TEST" name="Maven: net.java.dev.jna:jna:5.13.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.testcontainers:junit-jupiter:1.19.5" level="project" />
   </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="fc8ee2b7-af3b-43c5-8fcf-53e822ab0c1d" />
+  </component>
 </module>
