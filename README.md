@@ -1,0 +1,3 @@
+In this project, I aim to implement a robust and scalable microservices architecture using Java Spring Boot. Key components include service discovery for seamless communication between services, centralized configuration management for efficient maintenance, distributed tracing for comprehensive monitoring, event-driven architecture for responsive communication, centralized logging for streamlined debugging, circuit breaker for fault tolerance, and secure microservices leveraging Keycloak for authentication and authorization. Additionally, I am incorporating Apache Kafka to gain hands-on experience with event streaming and real-time data processing.
+
+I am following this course: https://www.youtube.com/watch?v=mPPhcU7oWDU
